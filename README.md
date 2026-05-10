@@ -8,8 +8,10 @@ A simple Android Weather App built with Kotlin that shows real-time weather usin
 - Simple and clean UI  
 
 ## 📸 Screenshots
-![Home Screen](screenshots/home.png)  
-![Weather Screen](screenshots/result.png)  
+<p float="left">
+  <img src="screenshots/home.png" width="250"/>
+  <img src="screenshots/weather.png" width="250"/>
+</p>
 
 ## 🛠️ Built With
 - Kotlin  
